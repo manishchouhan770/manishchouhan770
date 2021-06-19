@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manishchouhan770
+- 👋 Hi, I’m @themanishchauhan
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning web development using django
 - 💞️ I’m looking to collaborate on web projects
